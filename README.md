@@ -39,8 +39,8 @@ This dashboard visualizes housing price trends using multiple views:
 ---
 
 ## 📁 Files Included
-- `HousingPriceDashboard.twbx` — Tableau packaged workbook
-- `dashboard.png` — dashboard preview
+- `README.md` — project description and insights
+- `dashboard.png` — Tableau dashboard preview
 
 ---
 
