@@ -1,5 +1,9 @@
 # Airbnb Price Analysis Dashboard (Tableau)
 
+## 🔗 Tableau Public Link
+View the interactive dashboard here:  
+https://bit.ly/3KXgrh9
+
 ## 🔍 Objective
 Analyze housing prices to understand how bedroom count, location (zipcode), and time impact average prices and revenue trends.
 
@@ -40,5 +44,3 @@ This dashboard visualizes housing price trends using multiple views:
 
 ---
 
-## 📸 Preview
-<img width="1414" height="539" alt="Airbnb Analysis Dashboard" src="https://github.com/user-attachments/assets/e8115071-88b8-48df-ad11-07da8c146ddd" />
